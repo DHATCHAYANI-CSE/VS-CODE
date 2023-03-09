@@ -40,10 +40,16 @@ ctrl+shift+v->command palette
 16.Import Cost->import statement to show you how big that import is.
 Live share
 Markdone PDF->export to pdf->preview to side
-17.Sublime text keymap and settings importer
+17.Sublime text keymap and settings importer->for shortcuts
+18. notepad++,adam keymap. brackets keymap.keymap extension foe editor. 
 
 Customize your keyboard-settings-keyboard shortcuts
 command pallate-open keyboard shortcut
 ctrl+F->search command to find 
 To create own command->select advanced new file->command is ctrl+N
 If you want to search anything type the particular word in typescript a command might do something specific.
+We can create our own snippets.It gets stored in JSON file.click cog wheel or snippet tool to work with.$0 indicates that it is the last snippet.It is one of the most important feature in vs-code. If you open new account you an sync all the files by using this extension. 
+
+Settings syn-extension->It will take all your onfigurations,your snippets,your shortcuts,settings,extension and save them basically in a file.
+It will ask for where the project has to run whether in chrome or some other
+Debugging is a powerful thing->highly underrated
