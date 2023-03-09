@@ -6,3 +6,44 @@ ctrl+shift D->Debugging
 ctrl+shift F->search
 ctrl+w->to close
 ctrl+z->hold down and undo
+vs-code-->Emmet snippets
+Doc's dot IO.shortcut for html and css
+
+[HTML general syntax:
+<h1>
+<div.class="container"></div>
+<div.class="container"id="something special"></div>
+<h1 class="title"id="cooltitle"></h1>]
+
+In vs-code there are many settings available for example :open setting->cascandia code-fre font.
+1.Font size,zoom level[ctrl+,ctrl-]
+2.We can wrap the word on nextline-80
+3.Add pattern->cursor expand,blinking
+
+In vs-code there are many extensions available:
+1.To change theme->[cobalt theme]many themes are there
+ctrl+shift+v->command palette
+2.Preltier-code formatter(format on vs-code)
+3.Advanced new file->click to add a new file test.dot.js
+4.Better comments->to type different types of comments.It will highlight dif colours.
+5.Quokka.js->Javascript playground and typescript new javascript file.->Live js play pad or scratch pad for js and ts
+6.Live server-Ritwick dey-easy to run the stuff
+7.polacode extensions->images of our code to share bracket pair colorizer->inside js this will colour your brackets
+8.auto rename tag
+9.Bookmarks->allows you to set bookmark in the code
+10.Cloak->It is used to do screen recordings cloak will take a dot csv file dot E or V to have your environment variables turn on cloak and it will hide those things from everybody presenting on stage streaming live on youtube screencast
+11.css-peak->allows you to view the css from a given class
+12.Debugger for chrome->dot E and v .ENV gives kind of color syntax here for working with environment
+13.Editor Config for vs-code->basic formatting thing enables that ability inside of vs-code
+14.ES7 React/Redux/Graph QL/React.Native snipptes for snippets for react developer
+15.Fauna DB->database option used for application
+16.Import Cost->import statement to show you how big that import is.
+Live share
+Markdone PDF->export to pdf->preview to side
+17.Sublime text keymap and settings importer
+
+Customize your keyboard-settings-keyboard shortcuts
+command pallate-open keyboard shortcut
+ctrl+F->search command to find 
+To create own command->select advanced new file->command is ctrl+N
+If you want to search anything type the particular word in typescript a command might do something specific.
