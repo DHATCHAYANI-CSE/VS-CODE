@@ -52,4 +52,13 @@ We can create our own snippets.It gets stored in JSON file.click cog wheel or sn
 
 Settings syn-extension->It will take all your onfigurations,your snippets,your shortcuts,settings,extension and save them basically in a file.
 It will ask for where the project has to run whether in chrome or some other
-Debugging is a powerful thing->highly underrated
+Debugging is a powerful thing->highly underrated.
+Debugging in javascript is powerful.
+Hyper->can be used as a terminal.Some terminals are powershell,command prompt,git bash.
+Can Increase or decrease the size of the teminal.
+Ctrl+b->To close the side panel of the terminal.
+There are many customization available.You can change the cursor style.
+You can add your github repository through vs-code.
+Vs-code has amazing support for git. 
+Git lens extension you can see file history,commit,different contributors remote and stashes.
+Live share extension you can share your code lively.
